@@ -494,7 +494,7 @@ def titledata():
         "MOTD": ("<color=#00fbff>[ WELCOME TO CYANTAG! ]</color>\n"
                  "<color=#ff00ff>BOOST THE DISCORD SERVER FOR EVERY COSMETIC! discord.gg/ZAEjuCTcR</color>\n"
                  "<color=#77ff00>CREDITS: LICENSE FOR THE BACKEND</color>\n"
-                 "<color=red>HELPERS: AVII several MOSES</color>\n"
+                 "<color=red>HELPERS: LICENSE</color>\n"
                  "<color=magenta>ONLY OWNERS: CYANVR, LICENSE</color>\n"
                  "<color=yellow>BELOW 55 HZ IS BANNABLE AND 45 FPS OR BELOW IS BANNABLE, SWAP 2 IS HIGHEST PREDICTIONS AND 70 HIGHEST PREDS</color>"),
         "SeasonalStoreBoardSign": "<color=yellow>RATE THE GAME 5 STARS! little bible verse Romans 10:9  If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.</color>\n\n<color=aqua>DISCORD.GG/AVIITAGG",
