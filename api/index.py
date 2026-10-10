@@ -27,7 +27,7 @@ class Info:
     def __init__(self):
         self.TitleId:   str = "8B577"
         self.SecretKey: str = "6RT9CM4J8YUAZC74H7EFYWQNWOC8DYOHZ7UZW1SZAKTRJW3XS6"
-        self.AppCreds:  str = "OC|1395658753621184|736a9abe2dfa49c669f3410df5d79089"
+        self.AppCreds:  str = "OC|1308489079023628|eddef7a9f1519ca0f9bd0b5e657427e5"
 
     def ServerAuthHeaders(self):
         return {"Content-Type": "application/json", "X-SecretKey": self.SecretKey}
