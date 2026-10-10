@@ -25,8 +25,8 @@ ATTESTATION_TTL     = 60
 
 class Info:
     def __init__(self):
-        self.TitleId:   str = "8B577"
-        self.SecretKey: str = "6RT9CM4J8YUAZC74H7EFYWQNWOC8DYOHZ7UZW1SZAKTRJW3XS6"
+        self.TitleId:   str = "F179E"
+        self.SecretKey: str = "Z4H5GXKEYQHY9FPNQ93KEBX9ZHMMNYYJSD7KHE6YHQMKY5T6WM"
         self.AppCreds:  str = "OC|1308489079023628|eddef7a9f1519ca0f9bd0b5e657427e5"
 
     def ServerAuthHeaders(self):
